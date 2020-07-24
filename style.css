@@ -1,0 +1,135 @@
+#bg{
+    margin: 10%;
+    width: 60%;
+    height: 30%;
+
+}
+#new{
+    margin-top: 10px;
+    height: 40px;
+}
+#brand{
+    font-family: 'Grenze Gotisch', cursive;
+    font-size: 50px;
+    color: rgb(87, 87, 87);
+}
+
+h3{
+    color: rgb(87, 87, 87);
+}
+
+nav{
+    opacity: 0.5;
+    height: 10%;
+}
+#nav_list{
+    margin-left: auto;
+}
+#img{
+    height: 50%;
+    width: 80%;
+}
+#bottom{
+    margin: auto;
+    color: brown;
+
+}
+#intro{
+    margin: auto;
+}
+tr{
+    margin-top: 10%;
+}
+.bottom_icon{
+    
+    margin-left:30%;
+    margin-bottom: 5%;
+    height: 15%;
+    width: 15%;
+}
+
+.nav_button{
+    margin-left: auto;
+}
+.tile{
+    opacity: 0.2;
+}
+h2{
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(175, 175, 175);
+    text-align: center;
+}
+h4{
+    text-align: center;
+    text-decoration: underline;
+}
+.tile_2{
+    opacity: 0.6;
+    height: 0%;
+}
+.txt_center{
+    margin-left: 300px;
+}
+.discr{
+    color: rgba(255, 255, 255, 0.329);
+    text-align: center;
+}
+
+#t_about{
+    margin: auto;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+.tbl_space{
+    text-align: center;
+}
+
+#div_center{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.img_size{
+    height: 80%;
+    width: 40%;
+}
+
+
+.home_tab{
+    margin-top: -240px;
+}
+
+.text_card{
+    color: rgb(255, 255, 255);
+    text-align: unset;
+}
+
+.s_card{
+    height: 200%;
+}
+
+.skill_thing{
+    font-size: 150%;
+}
+
+.skill_icon{
+    height: 80%;
+    width: 100%;
+}
+
+.form{
+    opacity: 0.3;
+}
+
+#form_space{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#main{
+    font-size: 200%;
+}
+
+#submit_button{
+    opacity: 0.6;
+}
